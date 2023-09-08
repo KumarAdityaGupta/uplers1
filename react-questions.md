@@ -28,38 +28,45 @@ Functional Paradigm: Functional components align with the functional programming
 2. Backward Compatibility: Functional components with hooks are not compatible with older versions of React. They require React 16.8 or later.
 3. State Management Complexity: Managing complex state logic in functional components can be challenging, and you may need to use additional libraries like Redux for state management in larger applications.
 
+--------------------------------------------------------------------------------------------------------
+
 ## What are your favorite react hooks?
 
 React hooks are functions that allow you to use state and other React features in functional components. Some common React hooks include:
 
-1. useState: This hook allows you to add state management to your functional components. It returns an array with the current state value and a function to update it.
-<code>
+1. `useState`: This hook allows you to add state management to your functional components. It returns an array with the current state value and a function to update it.
+```
     const [count, setCount] = useState(0);
-</code>
+```
 
-2. useEffect: This hook is used for handling side effects in your components, such as data fetching, DOM manipulation, and subscriptions. It runs after every render and can mimic the behavior of componentDidMount, componentDidUpdate, and componentWillUnmount in class components.
-<code>
+2. `useEffect`: This hook is used for handling side effects in your components, such as data fetching, DOM manipulation, and subscriptions. It runs after every render and can mimic the behavior of componentDidMount, componentDidUpdate, and componentWillUnmount in class components.
+```
     useEffect(() => {
         // Your side effect code here
     }, [dependencies]);
-</code>
+```
 
-3. useContext: This hook allows you to access the context values that have been set higher up in the component tree. It provides a way to pass data to components without having to explicitly pass props through every level.
-<code>
+3. `useContext`: This hook allows you to access the context values that have been set higher up in the component tree. It provides a way to pass data to components without having to explicitly pass props through every level.
+```
     const contextValue = useContext(MyContext);
-</code>
+```
 
-4. useReducer: Similar to useState, this hook is used for state management but is more suitable for complex state logic. It takes a reducer function and an initial state and returns the current state and a dispatch function.
+4. `useReducer`: Similar to useState, this hook is used for state management but is more suitable for complex state logic. It takes a reducer function and an initial state and returns the current state and a dispatch function.
 
-<code>
+```
     const [state, dispatch] = useReducer(reducer, initialArg, init);
-</code>
+```
+
+
+------------------------------------------------------------------------------------------------------
+
+
 
 ## Have you written any custom hooks? If yes, what are they?
 
 Yes, I've written several custom hooks. Many of them are designed to call external APIs, authorize users based on their roles, or convert object properties into JSX elements. Below is an example of a custom hook that converts object properties into JSX elements:
 
-<code>
+```
 import React from 'react';
 
 // Custom hook to convert object properties into JSX
@@ -98,7 +105,9 @@ function MyComponent() {
 }
 
 export default MyComponent;
-</code>
+```
+
+---------------------------------------------------------------------------------------------------
 
 ## Name some of the React global state management libraries that you use and why.
 There are several React global state management libraries available, each with its own unique features and use cases. Here are some popular React global state management libraries, along with reasons why you might consider using them:
