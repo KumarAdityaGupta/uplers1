@@ -4,9 +4,9 @@
 
 # [React:](react-questions.md)
 
-<ul> 
-<li> What are the pros and cons of class versus functional components in ReactJS? https://github.com/KumarAdityaGupta/uplers1/blob/master/question1.md#javascript-libraries-and-frameworks </li>
-<li>What are your favorite react hooks?</li>
-<li> Have you written any custom hooks? If yes, what are they?</li>
-<li>Name some of the React global state management libraries that you use and why.</li>
-</ul>
+
+- [What are the pros and cons of class versus functional components in ReactJS?](https://github.com/KumarAdityaGupta/uplers1/blob/master/question1.md#javascript-libraries-and-frameworks)
+
+What are your favorite react hooks?
+ Have you written any custom hooks? If yes, what are they?
+Name some of the React global state management libraries that you use and why.
