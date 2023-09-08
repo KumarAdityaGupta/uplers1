@@ -3,7 +3,9 @@
 [ Name some of the ES6 and ES7 features and which are most frequently used by you.](question2.md)
 
 [React:](react-questions.md)
-- [What are the pros and cons of class versus functional components in ReactJS?](https://github.com/KumarAdityaGupta/uplers1/blob/master/react-questions.md#what-are-the-pros-and-cons-of-class-versus-functional-components-in-reactjs)
-- [What are your favorite react hooks?](https://github.com/KumarAdityaGupta/uplers1/blob/master/react-questions.md#what-are-your-favorite-react-hooks)
-- [Have you written any custom hooks? If yes, what are they?](https://github.com/KumarAdityaGupta/uplers1/blob/master/react-questions.md#have-you-written-any-custom-hooks-if-yes-what-are-they)
-- [Name some of the React global state management libraries that you use and why.](https://github.com/KumarAdityaGupta/uplers1/blob/master/react-questions.md#name-some-of-the-react-global-state-management-libraries-that-you-use-and-why)
+- [What are the pros and cons of class versus functional components in ReactJS?](./react-questions.md#what-are-the-pros-and-cons-of-class-versus-functional-components-in-reactjs)
+- [What are your favorite react hooks?](./react-questions.md#what-are-your-favorite-react-hooks)
+- [Have you written any custom hooks? If yes, what are they?](./react-questions.md#have-you-written-any-custom-hooks-if-yes-what-are-they)
+- [Name some of the React global state management libraries that you use and why.](./react-questions.md#name-some-of-the-react-global-state-management-libraries-that-you-use-and-why)
+
+[Angular]
