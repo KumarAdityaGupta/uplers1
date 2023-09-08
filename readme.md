@@ -1,4 +1,3 @@
-# Name some of your most and least favorite Javascript libraries or frameworks and explain why.
 [Name some of your most and least favorite Javascript libraries or frameworks and explain why.](question1.md)
 
 # Name some of the ES6 and ES7 features and which are most frequently used by you.
