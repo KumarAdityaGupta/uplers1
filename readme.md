@@ -13,3 +13,11 @@
 - [How can you pass data between parent and child components in Angular?](./angular.md#how-can-you-pass-data-between-parent-and-child-components-in-angular)
 - [What are Angular guards, and how do they work?](./angular.md#what-are-angular-guards-and-how-do-they-work)
 - [Explain the concept of Angular services and dependency injection](./angular.md#explain-the-concept-of-angular-services-and-dependency-injection)
+
+[What are the UI/UX design guidelines you follow?](question3.md)
+
+[What http request libraries are you using and why?](question4.md)
+
+[What is your favorite editor(s) for development?](question5.md)
+
+[What do you use for source code versioning control and CI/CD?](question6.md)
