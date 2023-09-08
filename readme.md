@@ -21,3 +21,5 @@
 [What is your favorite editor(s) for development?](question5.md)
 
 [What do you use for source code versioning control and CI/CD?](question6.md)
+
+[Coding question:](coding-question.js)
