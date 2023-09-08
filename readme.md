@@ -11,5 +11,5 @@
 [Angular](angular.md)
 - [What is an Angular directive, and how do you create a custom directive?](./angular.md#what-is-an-angular-directive-and-how-do-you-create-a-custom-directive)
 - [How can you pass data between parent and child components in Angular?](./angular.md#how-can-you-pass-data-between-parent-and-child-components-in-angular)
-- [What are Angular guards, and how do they work?]
-- [Explain the concept of Angular services and dependency injection]
+- [What are Angular guards, and how do they work?](./angular.md#what-are-angular-guards-and-how-do-they-work)
+- [Explain the concept of Angular services and dependency injection](./angular.md#explain-the-concept-of-angular-services-and-dependency-injection)
