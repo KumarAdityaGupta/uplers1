@@ -2,10 +2,14 @@
 
 [ Name some of the ES6 and ES7 features and which are most frequently used by you.](question2.md)
 
-[React:](react-questions.md)
-- [What are the pros and cons of class versus functional components in ReactJS?](./react-questions.md#what-are-the-pros-and-cons-of-class-versus-functional-components-in-reactjs)
-- [What are your favorite react hooks?](./react-questions.md#what-are-your-favorite-react-hooks)
-- [Have you written any custom hooks? If yes, what are they?](./react-questions.md#have-you-written-any-custom-hooks-if-yes-what-are-they)
-- [Name some of the React global state management libraries that you use and why.](./react-questions.md#name-some-of-the-react-global-state-management-libraries-that-you-use-and-why)
+[React:](react.md)
+- [What are the pros and cons of class versus functional components in ReactJS?](./react.md#what-are-the-pros-and-cons-of-class-versus-functional-components-in-reactjs)
+- [What are your favorite react hooks?](./react.md#what-are-your-favorite-react-hooks)
+- [Have you written any custom hooks? If yes, what are they?](./react.md#have-you-written-any-custom-hooks-if-yes-what-are-they)
+- [Name some of the React global state management libraries that you use and why.](./react.md#name-some-of-the-react-global-state-management-libraries-that-you-use-and-why)
 
-[Angular]
+[Angular](angular.md)
+- [What is an Angular directive, and how do you create a custom directive?]
+- [How can you pass data between parent and child components in Angular?]
+- [What are Angular guards, and how do they work?]
+- [Explain the concept of Angular services and dependency injection]
