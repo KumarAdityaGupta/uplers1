@@ -9,7 +9,7 @@
 - [Name some of the React global state management libraries that you use and why.](./react.md#name-some-of-the-react-global-state-management-libraries-that-you-use-and-why)
 
 [Angular](angular.md)
-- [What is an Angular directive, and how do you create a custom directive?]
-- [How can you pass data between parent and child components in Angular?]
+- [What is an Angular directive, and how do you create a custom directive?](./angular.md#what-is-an-angular-directive-and-how-do-you-create-a-custom-directive)
+- [How can you pass data between parent and child components in Angular?](./angular.md#how-can-you-pass-data-between-parent-and-child-components-in-angular)
 - [What are Angular guards, and how do they work?]
 - [Explain the concept of Angular services and dependency injection]
