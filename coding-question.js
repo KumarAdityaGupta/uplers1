@@ -13,23 +13,13 @@ const removeDups = (str) => {
 
   // Iterate through each character in the input string
   str.split('').forEach(char => {
-    
     // If the character is not in the charCounts object, add it and initialize the count to 1
-    if (!charCounts.hasOwnProperty(char)) {
-        charCounts[char] = 1;
-      } else {
-        // If the character has already been encountered, increment its count
-        charCounts[char]++;
-      }
+    charCounts[char] = !charCounts.hasOwnProperty(char) ? true : false;
   })
-  
-  // If the character occurs only once, add it to the result
-  const uniqueChars = Object.keys(charCounts).filter(char => charCounts[char] < 2)
 
   // Join the unique characters to form the result string
-  return uniqueChars.join('');
+  return Object.keys(charCounts).filter(char => charCounts[char]).join('')
 };
 
 console.log(removeDups(str1)); // Output: 'loejscrpt'
 console.log(removeDups(str2)); // Output: 'he wrd'
-
